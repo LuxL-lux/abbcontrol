@@ -1,0 +1,18 @@
+{
+    "name": "com.lukaslux.abbcontrol.editor",
+    "rootNamespace": "",
+    "references": [
+        "com.lukaslux.abbcontrol"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

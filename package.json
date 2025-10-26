@@ -1,0 +1,21 @@
+{
+  "name": "com.lukaslux.abbcontrol",
+  "displayName": "ABB Robot Control",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "A Unity framework for real-time control and safety monitoring of ABB industrial robots.",
+  "author": {
+    "name": "Lukas Lux"
+  },
+  "dependencies": {
+    "com.preliy.flange": "1.0.11",
+    "com.endel.nativewebsockets": "1.1.15"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "A demo scene showcasing the ABB Robot Control functionality.",
+      "path": "Samples/Demo"
+    }
+  ]
+}
